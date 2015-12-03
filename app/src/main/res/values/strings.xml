@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TTSDemo</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="rus_language">Russian</string>
+    <string name="eng_language">English</string>
+
+    <string name="warning_not_supported_lang">Sorry, this language is not supported</string>
+    <string name="warning_no_speech_engine">Error, probably you do not have Text-To-Speech</string>
+    <string name="info_speech_engine_ready">Text-To-Speech engine is ready</string>
+
+</resources>
